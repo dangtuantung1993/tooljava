@@ -1,0 +1,71 @@
+Google,all
+Amazon,product
+Etherscan,crypto
+DuckDuckGo,all
+Facebook,people
+Twitter,people
+AllMusic,song
+Presearch,all
+AZLyrics,song
+Baidu,all
+BBC,all
+Bing,all
+BleacherReport,all
+Blockchain.info,crypto
+BusinessInsider,all
+CBC,all
+CNN,all
+CNN Money,all
+CodePen,tech
+CoinDesk,crypto
+CoinMarketCap,crypto
+DomainMarket,domain
+DomainTools,domain
+Dwell,address
+eBay,product
+ESPN,player
+Etsy,product
+Forbes,people
+Fox News,people
+Giphy,people
+Github,github
+GoDaddy,domain
+Hacked,crypto
+HackerNews,question
+Houzz,furniture
+HugeDomains,domain
+Ikea,furniture
+IMDB,imdb
+Imgur,animal
+Intellicast,city
+International Business Times,people
+Investopedia,finance
+iStockPhotos,animal
+iTunes,song
+Kohl's,product
+Last.fm,song
+LinkedIn,people
+National Post,politic
+Netflix,movie
+Overstock,animal
+Pinterest,art
+Pexels,animal
+Quora,question
+Reddit,question
+RottenTomatoes,imdb
+Sedo,domain
+Sky Sports,player
+SeekingAlpha,finance
+SoundCloud,song
+Spotify,song
+Stack Exchange,question
+Stack Overflow,tech
+Target,product
+The Weather Network,city
+Tumblr,player
+Tunein,song
+Wikipedia,politic
+Yahoo Finance,finance
+Yelp,hotel
+YouTube,all
+ZeroHedge,politic

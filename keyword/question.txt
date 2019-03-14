@@ -1,0 +1,954 @@
+python 3 - selenium - printing text elements scraped from a web page
+Opening new tab with selenium python(3) and performing functions on it
+WebDriverException in Selenium using python 3
+How to solve keyerror in selenium grid
+Python 3 - Click a line in a pulldown menu only visible with mouse-over
+Changing Selenium from Py3 to Py2
+Python/Selenium Click on an element in a ul
+Login in pop-up using Selenium and Python
+How to randomly select from a drop-down menu using selenium?
+How to import java.awt.Robot & java.awt.event.KeyEvent in python binding for selenium and itâ€¦
+Open new tab in Firefox using Selenium WebDriver on Mac
+getAllWindowTitles method in Selenium 2 behaving differently
+selenium window_handles not correct when new window is opened wtih Python
+Selenium and Firefox on Ubuntufocusing to the new tab
+web scraping with selenium phantom js or python requests - every 2-3 pages server returns 'bâ€¦
+Selenium webdriver with python (stale element reference)
+Python and Selenium - Scrape data from multiple siblings
+Which latest version of python is supported by Robot Framework RIDE?
+Interacting with javascript scrollable container from python/selenium
+Scraping dynamic data with Selenium & Python 'Unable to locate element'
+How to put selenium webdriver within a Java Applet
+Bit by bit comparison of using Java or Python for unit testing frameworks and Selenium [closed]
+Creating a function or class in python to take screenshots with different names for each webâ€¦
+Selenium in Python on Mac - Geckodriver executable needs to be in PATH
+Using selenium with scrapy to click through javascript generated product list pages before sâ€¦
+Chrome Driver for chrome 57 does not accept enable-save-password-bubble=false
+Why can't pip find pysvn?
+How to install Selenium for Python and C#
+Remove docker container at the end of each test
+Chrome not reachable, failing randomly for set of test cases
+Selenium using Java - The path to the driver executable must be set by the webdriver.gecko.dâ€¦
+Scraping concurrently with selenium in python
+move control to newly opened IE window in selenium webdriver (using python) :no window name â€¦
+Selecting an option from a drop down (multiple class calls involved) using Python and Selenium
+Selenium Python run multiple test cases how do i log in once and use the same instance browser
+Selenium WebDriverWait takes too long to find an element on the page
+Selenium click on Highcharts series
+Is there a way to rethrow Selenium error message?
+Setting timeout on selenium webdriver.PhantomJS
+Export iMacro script into Python?
+Path issues with Selenium and Geckodriver
+â€œhttp.client.CannotSendRequestRequest-sentâ€ error
+Replace string with wildcard in a .txt file with Python
+Python Excel and Selenium Copy Cell value and paste into searchbox NEED HELP FAST
+Selenium error while trying to extract data from a web table
+How to access files from a subfolder that lies into a folder which recently created or modifâ€¦
+Selenium wait for either of 2 conditions to be present
+Python scrape webpage after POST to get url not present in the page source
+Chrome onMessage listener always sends 'undefined' response
+django.core.exceptions ImproperlyConfigured error when running selenium functional test in pâ€¦
+Video url cannot be found when scraping page
+How to scrape Facebook advertising data?
+Problems scraping URLs and nested CSV to combine with python
+Running webdriver with Firefox Python
+How can I click on sidebar menu without element by selenium using Python
+Django Testing outputs in the terminal
+How to fix Selenium WebDriverExceptionThe browser appears to have exited before we could câ€¦
+Xvfb has just begun failing without code changes
+using python, selenium and phantomjs on openshift (socket binding permission denied?)
+Javascript. How click on link in Javascript block?
+Can pip (or setuptools, distribute etcâ€¦) list the license used by each installed package?
+Pickling Selenium Webdriver Objects
+BeautifulSoup â€œIndexOut Of Rangeâ€ error on Windows, works on Mac
+Selenium Element is Not Visible Exception on Already Triggered Area
+Strategy for getting href link from HTML table
+How to put mulitple value in loop and result to csv python selenium
+How to disable Firefox's untrusted connection warning using Selenium?
+How to do fuzzing testing with Selenium
+Trigger load of elements without scrolling
+download data from stocktwits
+Selenium in Python - open every link within a drop down menu
+info[debug] Proxying command to localhost:8080
+Scraping data from interactive graph
+How to parse JSON results from Unirest call
+Passing cookies to subsequent requests in CrawlSpider
+Django app defaults?
+Programmatically update firefox profiles
+Running rapply on lists of dataframes
+Selenium Webdriver halting with [Errno 10054]
+Pycharm error when adding interpreter, permission denied
+Getting URLError Exception when caching webdriver instances
+flask-socketio doesn't allow connection from android device
+ImportErrorcannot import name 'ddt'
+Pandas read_xml() method test strategies
+Retry loop position after specified time
+How to get past the proceed screen on Stack Overflow
+Deep learning word2vec for small text
+	When is Fashion week in NYC?
+	What site did Lindbergh begin his flight from in 1927?
+	What country is the holy city of Mecca located in?
+	How hot is the sun?
+	What flavor filling did the original Twinkies have?
+	What is the state song of Kansas?
+	What war is connected with the book "Charge of the Light Brigade"?
+	Where was the first atomic bomb detonated?
+	What continent is Scotland in?
+	What island did the U.S. gain after the Spanish American war?
+	How deep is Crater Lake?
+	What are the people who make fireworks called?
+	Who painted "Sunflowers"?
+	Who played Frodo in Lord of The Rings?
+	What is the capital of Laos?
+	How hot does it get in Death Valley?
+	What is the southwestern-most tip of England?
+	What is the motto for California?
+	How many Great Lakes are there?
+	What is the name of the second Beatles album?
+	How many bombs were detonated in 2005 in London?
+	How many planets are in our solar system?
+	How big is the planet Venus?
+	When did the Klondike gold rush occur?
+	When was JFK born?
+	What city hosted the 1936 Summer Olympics?
+	What is Marilyn Monroe's real name?
+	How many Olympic gold medals did Carl Lewis win?
+	What year did Wilt Chamberlain score 100 points?
+	What is the name of the airport in Dallas Ft. Worth?
+	Who was the captain of the Titanic?
+	When was Apollo 11 launched?
+	What is the color of pea?
+	When did Henry VIII rule England?
+	what is the atomic number of molybdenum?
+	What are the measurements for a king-size bed?
+	What is the Keystone State?
+	what is the name of the Doctor's wife in the long eunning BBC TV series Doctor Who.	River Song
+	In what country did the game of croquet originate?
+	What breed was Roy Rogers' horse Trigger?
+	What is one national park in Indiana?
+	What are sounds too low for humans to hear called?
+	How many grams in an ounce?
+	For whom was the state of Pennsylvania named?
+	When was the first of the International Mathematical Olympiads held?
+	What is the name of Scarlett O'Hara's house?
+	What is written on the U.S. tomb of the unknown soldier?
+	What body of water does the Colorado River empty into?
+	when was Voyager 1 launched?
+	What year did poet Emily Dickinson die?
+	What daughter of Czar Nicholas II is said to have escaped death in the Russian revolution?
+	How many terms was Dwight D. Eisenhower president?
+	Who was the U.S. president in 1929?
+	When was Leonardo da Vinci born?
+	What team drafted Brett Favre?
+	How often does the men's soccer World Cup take place?
+	What date did Thomas Jefferson die?
+	Who sang "Tennessee Waltz"?
+	What color hair did Thomas Jefferson have before gray?
+	What stadium was the first televised MLB game played in?
+	What is the capital city of New Zealand?
+	How high is a hand?
+	How did Bob Marley die?
+	What peace treaty ended WWI?
+	What was Aaron Copland's most famous piece of music?
+	What is the density of gold?
+	What city in Australia has rain forests?
+	What organization did Paul Konerko first play major league baseball with?
+	When was the Oklahoma City bombing?
+	How many legs does a beetle have?
+	What is the abbreviation for the London stock exchange?
+	When were the Los Angeles riots?
+	What is the Boston Strangler's name?
+	Which film received the first best picture Academy Award?
+	What is the world's second largest island?
+	What year was the IBM PC invented?
+	How old do you have to be to join the U.S. Navy?
+	When was Julius Caesar born?
+	When did Yankee Stadium first open?
+	What are pennies made of?
+	how much is 1+1?
+	What is capital city of Russia?
+	How fast can a cheetah run?
+	How did Harry Chapin die?
+	How much did the first Barbie cost?
+	What company owns the soft drink brand "Gatorade"?
+	Who won the Oscar for best actor in 1970?
+	Who invented the cotton gin?
+	When was Maria Theresa born?
+	What is the gift for the 20th anniversary?
+	What is another name for the North Star?
+	how did stalin die?
+	How long is the Great Barrier Reef?
+	What is the North Korean national anthem?
+	What year did Ellis Island open its doors to immigrants?
+	How did Adolf Hitler die?
+	When a game of baseball is forfeited, what is the score?
+	What animal is veal from?
+	How many layers of skin do we have?
+	What is the oldest college bowl game?
+	Who makes viagra?
+	On what Caribbean Island was Ponce de Leon governor?
+	What city is Purdue University in?
+	how did Patsy Cline die	plane crash|crash.*plane|Aviation accident or incident
+	What is Madonna's last name?
+	how long does light travel from sun to earth?
+	What car company invented the Edsel?
+	What is Albert Einstein's surname?
+	Who defeated the Spanish armada?
+	In which city would you find the Louvre?
+	how did hitler die?
+	Who received the Nobel Prize in Physiology or Medicine in 1962?
+	What famous Spanish poet died in Spain's Civil War?
+	What is the name of the canopy at a Jewish wedding?
+	How close is Mercury to the sun?
+	What day and month did Nixon resign?
+	What is Mark Twain's real name?
+	what is capital city of czech republic?
+	What rock band sang "A Whole Lotta Love"?
+	What is the name of Ling Ling's mate?
+	How fast does light travel through space?
+	How many home runs did Babe Ruth hit?
+	What is an Indian flute made of?
+	When did the 6-day war begin?
+	What is the range for the number of passengers a Boeing 747-400 airplane can carry?
+	What did Osama bin Laden's father do for a living?
+	What is the full name of conductor Seiji?
+	How high is Pikes peak?
+	What is Richie's surname on "Happy Days"?
+	What year was the first Macy's Thanksgiving Day Parade held?
+	What nationality is Sean Connery?
+	What country singer's first album was titled "Storms of Life"?
+	what is the critical angle of rainbow?
+	How did Mahatma Gandhi die?
+	What state was Amelia Earhart born in?
+	What is the play "West Side Story" based on?
+	When did the shootings at Columbine happen?
+	How did John Quincy Adams die?
+	What did Caesar say before he died?
+	what is the lowest prime number?
+	What country is the leading producer of rubber?
+	What Ridley Scott movie is set in 180 a.d.?
+	Where is Prairie View A&M University?
+	When was Benjamin Disraeli prime minister?
+	Who wrote Pirate Jenny?
+	What body of water does the Euphrates River empty into?
+	When did International Volunteers Day begin?
+	What body of water does the Colorado River flow into?
+	How far is the distance for a free throw?
+	What city is the Liberty Bell currently located in?
+	What president is on a quarter?
+	How did Eva Peron die?
+	How tall is the Eiffel Tower in France?
+	What did Charles Babbage invent?
+	What is a female moose called?
+	Where was Bob Dylan born?
+	When did George W. Bush get elected as the governor of Texas?
+	How did Marty Robbins die?
+	When did the Black Panther party start in California?
+	How did Marjorie Kinnan Rawlings die?
+	Whose business slogan is "Quality is job 1"?
+	What date did the U.S. civil war start?
+	What is the currency used in China?
+	What color is the top stripe on the U.S. flag?
+	When was the first heart transplant?
+	When did Marilyn Monroe commit suicide?
+	How many pieces are there in a dozen?
+	What is the study of ants called?
+	What is the life expectancy of the average woman in Nigeria?
+	How old is the universe?
+	What color is the sky?
+	What country produces the most silk?
+	How many intelligence agencies does the U.S. have?
+	What province in Canada is Niagara Falls located in?
+	When was the Reichstag burned down?
+	What is the major crop grown in Arizona?
+	What was Thailand's original name?
+	What is the color of pee?
+	What is the date of the Kent State Shooting?
+	What was the name of the plane that dropped the Atomic Bomb on Hiroshima?
+	How did George Washington die?
+	The sun is mostly made up of what two gasses?
+	Who was the baseball player given the nickname "Mr. October"?
+	How many islands are there in Indonesia?
+	How many electoral votes does Tennessee have?
+	Where is the oldest synagogue in the United States?
+	When was the piano made?
+	in which country was google founded?
+	What is the body temperature of a dog?
+	Who discovered the structure of DNA?
+	What country celebrates Guy Fawkes Day?
+	What company manufactures Van Heusen shirts?
+	When was the Exxon Valdez Oil spill?
+	What was the name of the dog in the Thin Man movies?
+	What city is Disneyland in?
+	What canal is between the Mediterranean Sea and the Red Sea?
+	How tall is the CNN Tower in Toronto?
+	What was Dale Evans' horse's name?
+	How do you say "French fries" in French?
+	What year was Ebbets Field, home of Brooklyn Dodgers, built?
+	Who composed "The Messiah"?
+	What is the Bluegrass state?
+	What is a word spelled the same backward and forward called?
+	What are the colors of the Italian flag?
+	What river is under New York's George Washington bridge?
+	What building is the Academy of Country Music Awards held in?
+	where is kiev ?
+	What is the proton number of neon?
+	When did the Vietnam War end?
+	What English city does the prime meridian pass through?
+	How many rooms are in the White House?
+	which natural number immediately follows 41 and precedes 43?
+	How many electoral college votes in Tennessee?
+	What is the capital of Victoria?
+	What is the word which means one hiring his relatives?
+	What was the name of Stonewall Jackson's horse?
+	What county is Elmira, NY in?
+	What is the capital city of Algeria?
+	What US state produces most of the nation's cheese?
+	What album became the greatest selling album of all time?
+	what is the name of the ninth episode of the seventh season of the animated television series Family Guy?
+	when was Dante's "Inferno" written?
+	When was Martin Luther King Jr. born?
+	What is Motley Crue's Nikki Sixx's real name?
+	What is the population of Maryland as of 2013?
+	What does DEA stand for?
+	What party led Australia from 1983 to 1996?
+	When did Maria Theresa die?
+	What is the motto for the Boy Scouts?
+	What part of the eye continues to grow throughout a person's life?
+	What is the "Playboy" logo?
+	Who was the Roman god of the sea?
+	Where is Georgetown University?
+	What Cuban dictator did Fidel Castro force out of power in 1958?
+	What comedy team was John Cleese part of?
+	What year was the movie "Ole Yeller" made?
+	What is the name of the airport in Amsterdam?
+	When was the Hellenistic Age?
+	Who is the owner of the St. Petersburg Times?
+	How far is the moon from Earth in miles?
+	What did Peter Minuit buy for the equivalent of $24.00?
+	How many types of human blood are there?
+	Which disciple received 30 pieces of silver for betraying Jesus?
+	How big is Mars?
+	How many ounces are in a gallon?
+	What is Nicaragua's main industry?
+	What player has been the home run champion of the national league seven times?
+	Which Italian city is home to the Cathedral of Santa Maria del Fiore or the Duomo?
+	What is the deepest lake in America?
+	What is the coldest place on earth?
+	Who founded Rhode Island?
+	What animal is responsible for the most human deaths worldwide?
+	What band did former Red Hot Chili Peppers guitarist Dave Navarro start out with?
+	When was Wendy's founded?
+	What prison is Charles Manson at?
+	How old was George Washington when he died?
+	What country is Mt. Everest in?
+	Where is the smallest bone in the body?
+	What college did Marcus Camby play for?
+	When was Lyndon B. Johnson born?
+	What is the current population in Bombay, India as of 2011?
+	When is Mexico's independence?
+	Who wrote "Fiddler on the Roof?
+	Where is bile produced?
+	What is the nickname of the British flag?
+	What day did Neil Armstrong land on the moon?
+	What is the name of the first unmanned space craft sent to Mars by NASA?
+	What city is the gateway arch located in?
+	What does Tardis stand for?
+	Who was the first person to reach the south pole?
+	When was Watt's steam engine invented?
+	What was Andrew Jackson's wife's name?
+	What is Buzz Aldrin's real first name?
+	What dessert is made with poached peach halves, vanilla ice cream, and raspberry sauce?
+	What substance did Charles Best and Frederick Banting discover in 1922?
+	What automobile company makes the Spider?
+	What does R&B stand for?
+	What is the critical mass of Plutonium?
+	What is the nickname of Oklahoma?
+	When was the battle of Chancellorsville fought?
+	Where was Bill Gates born?
+	How did Iowa get its name?
+	Who is author of cryptonomicon?
+	When was the first jet invented?
+	How many children did Bob Marley have?
+	What country is Pretoria in?
+	What movie won the Academy Award for best picture in 1989?
+	What animal can go the longest without water?
+	What island was Napoleon exiled to after his defeat at Waterloo?
+	What did James Watson and Francis Crick discover?
+	What is Ronald Reagan's favorite candy?
+	What did Alfred Noble invent?
+	What is Elvis Presley's middle name?
+	What city in Louisiana was Britney Spears born in?
+	What does "CBS" (television network) stand for?
+	What is the literacy rate in Cuba?
+	What is the Cav's arena name?
+	When was the U.S. capitol built?
+	What year did the first American lighthouse open?
+	How did the disciple Peter die?
+	Who is the author of the poem "The Midnight Ride of Paul Revere?
+	How big was the Super Big Gulp sold in 7-Eleven stores in 1980?
+	how much is 41+1?
+	How far is a 3-point line from the basketball goal in the NBA?
+	How many children did Maria Theresa have?
+	What is a female rabbit called?
+	What does HTML stand for?
+	In what city the first nuclear bomb exploded?
+	What dam is said the be the largest hydroelectric station in the world?
+	When was Mariah Carey born?
+	How many cabinet officers are there?
+	How did Anne Frank die?
+	How old was Babe Ruth when he died?
+	What country is home to Sabena Airlines?
+	How tall is Mike Tyson?
+	What type of bee drills holes in wood?
+	What year did South Dakota become a state?
+	Which country exports the most tea?
+	What does a theodolite measure?
+	What sporting event first took place in 1903?
+	When was the White House built?
+	What is the name of the famous dogsledding race held each year in Alaska?
+	Which U.S. state is the leading corn producer?
+	What city is Lake Washington by?
+	What county is Wilmington, Delaware in?
+	Who directed the film "Fail Safe"?
+	What city is the home to the Rock and Roll Hall of Fame?
+	When was the first practical camera invented?
+	When was the first Olympics held?
+	How do you say "I love you" in French?
+	When was the first commercially successful steam engine invented?
+	how long is the day?
+	What name is horror actor William Henry Pratt better known by?
+	What is the name of the country in the Pyrenees mountains between France and Spain?
+	What ancient tribe of Mexico left behind huge stone heads?
+	When was the first submarine not using human-powered propulsion invented?
+	What cemetery is Thurgood Marshall buried in?
+	What is the atomic number of uranium?
+	What is the chemical formula of methane?
+	What county is San Antonio, Texas in?
+	How much gravity exists on Mars?
+	What female leader succeeded Ferdinand Marcos as president of the Philippines?
+	What color belt is first in karate?
+	Where did Kublai Khan live?
+	What is the chemical formula for sulphur dioxide?
+	What is Karl Malone's nickname?
+	What city does the Tour de France end in?
+	What year did Alaska become a state?
+	Who was the first woman to run for president?
+	What are the biggest snakes in the world?
+	What was the Beatles' first number one hit?
+	When did Houdini die?
+	What is the density of water?
+	When was the Rosenberg trial?
+	What was Denzel Washington's first television series?
+	What river runs through Rome, Italy?
+	What was the first spaceship on the moon?
+	What is tequila made from?
+	What year was the gateway arch built?
+	What Spanish explorer discovered the Mississippi River?
+	When was penicillin first used?
+	When was Abraham Lincoln born?
+	When was Jerusalem invaded by the general Titus?
+	Who was the architect who designed the Empire State Building?
+	How many Earth days does it take for Mars to orbit the sun?
+	What college did Magic Johnson go to?
+	When did the United States enter World War II?
+	When was the battle of Shiloh?
+	What is the legal age to vote in Argentina?
+	How did Minnesota get its name?
+	What country was formed in 1948?
+	What was the largest crowd to ever come see Michael Jordan?
+	What was the length of the  Wright brothers' first flight?
+	How many tentacles do squids actually have?
+	How much is the international space stations expected to cost?
+	Who was the first African-American speaker of the California State Assembly?
+	Where on the body would you find the jowls?
+	What are wavelengths of visible light measured in?
+	Which planet did the spacecraft Magellan enable scientists to research extensively?
+	How fast is the world spinning?
+	How many moons does Neptune have?
+	What galaxy is closest to the milky way?
+	What person developed COBOL?
+	What is the inner peel of an orange called?
+	What year did "Snow White" come out?
+	What is the scientific name for leech?
+	What date was the Declaration of Independence signed on?
+	What is the name of the five pointed star commonly used by Satanists?
+	What is the capital of Syria?
+	What does NASDAQ stand for?
+	when did vikings colonize greenland?
+	What president created social security?
+	What is the principle port in Ecuador?
+	When was Ronald Reagan shot?
+	What is the name of the professional baseball team in Myrtle Beach, South Carolina?
+	What apostle was crucified?
+	What is the text of an opera called?
+	Where was the first of the International Mathematical Olympiads held?
+	Who was the first Triple Crown Winner?
+	What does ACLU stand for?
+	What country did Panama gain its independence from?
+	What is the currency of Bolivia called?
+	How did Joseph Smith die?
+	How many home runs did Henry "Hank" Aaron hit in his major league career?
+	When did the Mesozoic period end?
+	What is the boiling point of water?
+	When was the Great Wall of China built?
+	What American landmark stands on Liberty Island?
+	What continent is Togo on?
+	what is the answer to ultimate question of life, universe and everything?
+	What country is the largest in square miles?
+	When was Lyndon B. Johnson president?
+	What city did Duke Ellington live in?
+	What branch of the military has its academy in Annapolis?
+	Where is America's Stonehenge?
+	What 1857 U.S. Supreme Court decision denied that blacks were citizens?
+	What is the name of the phobia for number 13?
+	What city is known as the rubber capital of the world?
+	What artist recorded the song "At Last" in the 40's or 50's?
+	how long are spaghetti?
+	What is Africa's largest country?
+	who are the inventors of the first transistor?
+	What currency is used in Christiania?
+	What is the name of the chart that tells you the symbol for all chemical elements?
+	where was jesus born?
+	who wrote ender's game?
+	What country is Berlin in?
+	Who is the detective on "Diagnosis Murder"?
+	Who founded Taoism?
+	In what month are the most babies born?
+	How tall is Mount McKinley?
+	what Arthur Miller play recounts his marriage to Marilyn Monroe?
+	What is the most populated country in the world?
+	What country are Volvo automobiles made in?
+	How many feet above sea level is Jerusalem?
+	What is Britney Spears' middle name?
+	What is David Lee Roth's birthday?
+	How did Jerry Garcia Die?
+	How many republics made up the Soviet Union?
+	What is the diameter of the moon?
+	What modern country is home to the ancient city of Babylon?
+	What country is Hyundai from?
+	How fast is an eye blink?
+	What is the scientific name for tobacco?
+	What dissolves gold?
+	When did Marian Anderson sing at the Lincoln Memorial?
+	When is christmas?
+	Where is the Sea of Tranquility?
+	How did Dennis Brown die?
+	How many justices does the United States Supreme Court have?
+	What country is know as the "Land of the Rising Sun"?
+	Where did Golda Meir grow up?
+	When was the first Star Wars movie made?
+	When did the Persian Gulf War occur?
+	How did Micky Mantle die?
+	What country did Marco Polo come from?
+	How far is the Titanic under water?
+	What did George Washington call his house?
+	Who is the author of Neuromancer?
+	How many colors do you need to color a planar graph?
+	who is Barrack Obama?
+	What are Brazil's national colors?
+	What is the oldest sports trophy?
+	How did Chicago get its name?
+	What day did Martin Luther King, Jr. get assassinated?
+	What Latin American country is the leading exporter of sugar cane?
+	What is the term for arable land left unseeded for one season?
+	What date did the Lusitania sink?
+	What American commodore demanded that Japan trade with the United States?
+	What is the most populous city in the United States?
+	Who was Woodrow Wilson's First Lady?
+	What country did Iraq invade in 1990?
+	What instrument measures radioactivity?
+	How did John Dillinger die?
+	What country other than Germany has German as its official language?
+	Who did Scott Bakula play in "American Beauty"?
+	where is Løn used?
+	What university did Thomas Jefferson found?
+	In what Canadian province are most people of French descent?
+	What president served 2 nonconsecutive terms?
+	What sports stadium has been billed as "the eighth wonder of the world"?
+	How many interceptions did Joe Montana throw in four Superbowls?
+	what is Speedy Claxton's real name?
+	What is the world's largest coral reef?
+	Where was Hans Christian Anderson born?
+	What American revolutionary general turned over West Point to the British?
+	Who started the Protestant reformation?
+	What is the highest mountain in South America?
+	What confederate general was responsible for the defeat at Gettysburg?
+	how deep is marianas trench?
+	When is Mexico's Independence Day?
+	What is the scientific name for red imported fire ants?
+	What was the name of FDR's dog?
+	How tall is Al Pacino?
+	What do grasshoppers eat?
+	When was the U.S. invasion of Haiti?
+	What American feminist appeared on a silver dollar?
+	What is the richest country in the world?
+	What language do they officially speak in New Caledonia?
+	Who said "I have not begun to fight!"?
+	What ocean are the Gilbert Islands in?
+	What year did the shuttle Challenger explode?
+	How many chromosomes does a human zygote have?
+	How do you say "cat" in the French language?
+	What continent is India on?
+	What school did Emmitt Smith go to?
+	what number is considered unlucky in Japanese culture?
+	What is the traditional dish served at Wimbledon?
+	How close is Mesa to Phoenix?
+	When did they put Mir down?
+	What is egg white called?
+	who portrays the twelfth doctor in BBC TV series Doctor Who?
+	Which African country's major export is coffee?
+	What film did Liza Minnelli win a best actress Oscar for?
+	how many months are in a year?
+	What is Australia's national blossom?
+	When was the Titanic built?
+	Who is the governor of Tennessee in 2002?
+	When was the first Superbowl?
+	What is the normal pulse rate?
+	Where is Mae West buried?
+	What 20th century American president died at Warm Springs, Georgia?
+	What is the beginning date for the Hershey foods company?
+	What are the opening words of the Declaration of Independence?
+	Who starred in "The Poseidon Adventure"?
+	What is the active ingredient in Tylenol?
+	Who makes Magic Chef refrigerators?
+	Where is Mesa Verde National park?
+	What is the profession of John Cusack's character in the 1999 film "Pushing Tin"?
+	What city's biggest shopping district is called the Ginza District?
+	What is Eminem's real name?
+	What river is called "China's Sorrow"?
+	How long before bankruptcy is removed from a credit report?
+	How many stories are in the Sears Tower?
+	When was D-Day?
+	What group sang the song "Happy Together"?
+	What Chinese Dynasty was during 1412-1431?
+	What province is Calgary located in?
+	How much area does the Everglades cover?
+	What band was Jimmy Page in before Led Zeppelin?
+	What position did Satchel Paige play in professional baseball?
+	How many Platonic solids do we have?
+	What country artist is nicknamed Tater?
+	When was John Lennon born?
+	What capital city do you see from the top of Bunker Hill?
+	How fast does Randy Johnson throw?
+	What is capital of Maryland?
+	When did Willis Haviland Carrier make the air conditioner?
+	How much does the capitol dome weigh?
+	When was the Buckingham Palace built in London, England?
+	What duo lost their Grammy for best new artist when it was discovered that they lip-synched their songs?
+	When was the first Ford Mustang made?
+	How big is the Great Pyramid?
+	What is the capital of Kentucky?
+	What is the capital city of Ukraine?
+	How tall is Allen Iverson?
+	What currency is used in Ukraine?
+	How do you say "pig" in Spanish?
+	What composer wrote "Die Gotterdammerung"?
+	How old was Nolan Ryan when he retired?
+	Who invented bitcoin?
+	How old did Jesus die?
+	Where is the Salton Sea?
+	Which country colonized Hong Kong?
+	When was the first atomic bomb dropped?
+	What player on a basketball team usually plays the post or pivot position?
+	Where is the highest point on earth?
+	What book did Rachel Carson write in 1962?
+	When was the first televised World Series?
+	How high is the pitcher's mound?
+	What are baby frogs called?
+	what can mandrills at the Colchester Zoo do?
+	What actress has received the most Oscar nominations?
+	What was the name of Sherlock Holmes' brother?
+	chemical symbol of ethylene ?
+	What year was Robert Frost born?
+	What was Dr. Seuss' real name?
+	When did Led Zeppelin appear on BBC?
+	What is the distance from Jupiter to the sun?
+	what instrument does the concertmaster of an orchestra usually play?
+	What does the bugler play at the end of the day on a US military base?
+	How did Harry Houdini die?
+	What was the name of the stage play that A. Lincoln died at?
+	What's the name of King Arthur's sword?
+	What country's flag flies over the Canary Islands?
+	When did president Herbert Hoover die?
+	When was Prince Charles born?
+	How many Mars days are there in a Martian year?
+	What is the highest mountain in the Czech Republic?
+	How many years are there in a French president's term?
+	What is the name of the ballpark that the Milwaukee Brewers play at?
+	Where was the first J.C. Penney store opened?
+	What is the chief religion for Peru?
+	How tall is the Washington Monument?
+	What is the city of brotherly love?
+	How long is a quarter in an NBA game?
+	What is the deepest lake in the world?
+	What name is given to the science of map-making?
+	What is the color of blood?
+	What is a peninsula in the Philippines?
+	Where does cinnamon come from?
+	Who was the first person to run the mile in less than four minutes?
+	what is the sixteenth episode of the sixth season of the science fiction television series The X-Files?
+	What animal has human-like fingerprints?
+	When was the Panama Canal returned to Panama?
+	What business was the source of John D. Rockefeller's fortune?
+	What was the name of the high school in "Grease"?
+	who received the Nobel Prize for Physiology and Medicine in the year 2013?
+	who is the author of Sherlock Holmes?
+	How high is Mt. Everest?
+	What city is Ole Mississippi University in?
+	When did Robert E. Lee surrender in the Civil War?
+	what is the most lethal poison?
+	What TV series did Pierce Brosnan play in?
+	How many official languages does Switzerland have?
+	What percentage of the population is left handed?
+	By what nickname was musician Ernesto Antonio Puente, Jr. best known?
+	How did Cleopatra die?
+	What year did General Montgomery lead the Allies to a victory over the Axis troops in North Africa?
+	What is Tina Turners real name?
+	How many times a day do observant Muslims pray?
+	What year did Mussolini seize power in Italy?
+	What department is responsible for regulating casino gambling in Mississippi?
+	What is the national anthem in England?
+	When did Walt Disney die?
+	How often does the United States government conduct an official population census?
+	Who invented the fishing reel?
+	What year was President Kennedy killed?
+	Who was Tom Cruise married to last?
+	Where is Big Ben?
+	What is the big prize called in Canadian football?
+	What was the first satellite in space?
+	What is the first derivative of x^2?
+	What is the name of the official residence of the President of France?
+	what language is used by nltk?
+	Where does the vice president live when in office?
+	What do the opposite sides of a die add up to?
+	What is the area of Venezuela?
+	which number corresponds to * in ASCII?
+	What actor has a tattoo on his right wrist reading "Scotland forever"?
+	Which city is home to Superman?
+	Which political party is Lionel Jospin a member of?
+	Which president was sworn into office on an airplane?
+	How did Jimi Hendrix die?
+	What membrane controls the amount of light entering the eye?
+	What is Corian made of?
+	what is the moon of jupiter?
+	What company makes Bentley cars?
+	which is the central region of the anterior part of the hand?
+	Who wrote "East is east, west is west and never the twain shall meet"?
+	What band did the music for the 1970's film "Saturday Night Fever"?
+	When was the U.N. created?
+	What country's soldiers hid in the Trojan horse?
+	When did "The Simpsons" first appear on television?
+	What year was Alaska purchased?
+	When did Einstein die?
+	who is the author of the TV series BBC Sherlock?
+	What band was Jerry Garcia with?
+	Who won the Nobel Peace Prize in 1992?
+	What country is Aswan High Dam located in?
+	What was the original name before "The Star Spangled Banner"?
+	Where was Declaration of Independence signed?
+	Where did the U.S. Civil War begin?
+	What author wrote under the pen name "Boz"?
+	What country did Catherine the Great rule?
+	Who was the governor of Colorado in 2003?
+	Where was the Andersonville Prison?
+	how many generations are in Gospel of Matthew's version of the Genealogy of Jesus?
+	Which river runs through Dublin?
+	What is the motto of the "New York Times"?
+	How old was Elvis when he died?
+	Where was the battle of Alamo fought?
+	how many countries are in european union?
+	Tell me where the DuPont company is located.	Wilmington|Delaware|United States
+	What is Australia's oldest city?
+	How tall is the green monster at Fenway?
+	Who was the first black heavyweight champion?
+	What is the name of the US military base in Cuba?
+	what is the national anthem of usa?
+	In which country is Timbuktu?
+	Who was Sherlock Holmes' arch enemy?
+	What does cc mean in letter writing?
+	What is the name of the volcano that destroyed the ancient city of Pompeii?
+	What city was the first in the world to have a population over one million?
+	What do the French call the English Channel?
+	What passage has the Ten Commandments?
+	What number did Michael Jordan wear?
+	What does CPR stand for?
+	Where was Abraham Lincoln born?
+	In which capital city is the River Seine?
+	How did Virginia Woolf die?
+	What mythical Scottish town appears for one day every 100 years?
+	When was "Cold Mountain" written?
+	On what continent is Egypt located?
+	What gas is 78 percent of the earth's atmosphere?
+	How did the Lindy Hop get its name?
+	What common medicine discovered by native Americans is from the bark of a willow tree?
+	What is the longest river in the world?
+	What is the name of the computer which beat Kasparov at chess in 1997?
+	who discovered transposable elements - transposons?
+	What country was ruled by King Arthur?
+	What is the democratic party symbol?
+	What is the "Sunflower State"?
+	What is the name of Abbott and Costello's famous routine?
+	what is the inode number of the root directory in the reiser4 file system?
+	What nation is home to the Kaaba?
+	When was MTV started?
+	in which country was osama bin laden killed?
+	What continent is the world's largest dessert on?
+	Who has the most no hitters in major league baseball?
+	What year did "New Coke" come out?
+	What is the oldest national park in the U.S.?
+	When was the Tet offensive in Vietnam?
+	Where did Dr. King give his speech in Washington?
+	Which vintage rock and roll singer was known as "The Killer"?
+	When was Davy Crockett born?
+	What is the area of western Germany that is known for its rich coal deposits?
+	When was OJ Simpson arrested for murder?
+	What is the state with the smallest population?
+	Who was the first head of the FBI?
+	How many mph do you have to go to break the sound barrier?
+	When was King Louis XIV born?
+	What is the national airline of Spain?
+	How many American deaths were there in the Korean war?
+	What major league baseball player has 511 pitching victories?
+	where you can find pyramids?
+	How many NFL teams are there?
+	What is the lowest point on dry land?
+	What is Barbie's full name?
+	When was Declaration of Independence signed?
+	How much sleep should a child get at night?
+	What country produces the most emeralds?
+	Which religion has the largest number of followers worldwide?
+	what is the name of Kirk's starship?
+	How did Cincinnati get its name?
+	What year was the phonograph invented?
+	What does DNA stand for?
+	How did Brandon Lee die?
+	who invented dynamite ?
+	When did Bob Marley die?
+	What famous verse did Sarah Hale write in 1830?
+	What do you call a bone doctor?
+	When did the Golden Gate Bridge get finished?
+	How tall is Tom Cruise?
+	When were the first postage stamps issued in the United States?
+	The Hindenburg disaster took place in 1937 in which New Jersey town?
+	When was Jackie Robinson born?
+	Who is the evil H.R. Director in "Dilbert"?
+	How large of a litter does a rat have at one time?
+	What is Horatio's relationship to Hamlet?
+	How deep is the Grand Canyon?
+	What is the degree of tilt of Earth?
+	What was the name of the first child of English parents to be born in America?
+	What college did Allen Iverson go to?
+	How did Julius Irving's son die?
+	Which baseball star stole 130 bases in 1982?
+	Which space shuttle exploded?
+	what is the nearest planet to the sun?
+	What is the age of our solar system?
+	How high is Mt. Hood?
+	How many stripes are on the American flag?
+	What instrument did the jazz musician Art Tatum play?
+	How big is the killer whale?
+	What does "E Pluribus Unum" mean?
+	Who was the lead singer for the Commodores?
+	Who created the literary character Phineas Fogg?
+	What city is Duke University in?
+	How fast can a nuclear submarine travel?
+	What gift is proper for a 1st anniversary?
+	What is the Stanley Cup made of?
+	What is the state bird of Alaska?
+	What language is spoken in Latin America?
+	What is the height of the tallest redwood?
+	Who wrote "Strange Case of Dr Jekyll and Mr Hyde" ?
+	Where is the national hurricane center located?
+	Where is Mount Olympus?
+	Where are the British Crown jewels kept?
+	What is the nickname for the national New Zealand basketball team?
+	How tall is the Sphinx?
+	what is the atomic number of Uranium?
+	How did Malcolm X die?
+	How did Einstein die?
+	What are people born 1965 through 1980 called?
+	What Canadian city has the largest population?
+	What did Ozzy Osbourne bite the head off of?
+	What instrument did Louis Armstrong play?
+	What fruit's stone does Laetrile come from?
+	What museum in Philadelphia was used in "Rocky"?
+	How many floors are in the Empire State Building?
+	What college did Magic Johnson attend?
+	What city is Southwestern University in?
+	What Liverpool club spawned the Beatles?
+	what is the moon of mars?
+	What was the Hunchback of Notre Dame's real name?
+	Who stabbed Monica Seles?
+	When did the battle of Iwo Jima take place?
+	When was the hot air balloon invented?
+	How far would you run if you participate in a marathon?
+	What engineer designed the Erie Canal?
+	Who was elected President of South Africa in 1994?
+	Who was responsible for the killing of Duncan in "Macbeth"?
+	How do you say "house" in Spanish?
+	When was the city of New Orleans founded?
+	When was the first potato chip made?
+	Who discovered polarography?
+	What national monument was designated as the first national monument in 1906?
+	When was the Vietnam Veterans Memorial in Washington, D.C. built?
+	When was the first patent filed on the ice cream cone?
+	When is Gerald Ford's birthday?
+	When was barbed wire invented?
+	When was abortion legalized in the U.S.?
+	What chemical is in chocolate that helps with depression?
+	What continent is India on?
+	What college did Allen Iverson attend?
+	when did the biggest underground terror attack happen?
+	When was the first TV invented?
+	Where was the first McDonalds built?
+	How far is the pitchers mound from home plate in softball?
+	What was the profession of American patriot Paul Revere?
+	what is the national anthem of czech republic?
+	What is the name of the heroine in "Gone with the Wind"?
+	What lays blue eggs?
+	What day did Pearl Harbor occur?
+	who invented the tesla coil?
+	What country made the Statue of Liberty?
+	How tall is the tallest pyramid?
+	How many counties are in California?
+	When did Mike Tyson bite Holyfield's ear?
+	What color is the computer which beat Kasparov at chess in 1997?
+	When is Jennifer Lopez's birthday?
+	Where is Hill Air Force Base?
+	Where is the Statue of Liberty?
+	What court case overturned Plessy v. Furgeson?
+	What is rum made out of?
+	When was Google founded?
+	When was liquid water found on Mars?
+	What is a group of antelope called?
+	Who succeeded Ferdinand Marcos?
+	How far is it from the pitcher's mound to home plate?
+	How many stomachs does a cow have?
+	What dress size was Marilyn Monroe?
+	What year did California become a territory?
+	What class of drug is Xanax?
+	What year did Nintendo 64 come out?
+	What year did Marco Polo travel to Asia?
+	What is Canada's most populous city?
+	What country was the Battle of Verdun fought in?
+	What president declared Mothers' Day?
+	Who was the only golfer to win the U.S. and British Opens and amateurs in the same year?
+	Where was President Lincoln buried?
+	Where was the movie "Somewhere in Time" filmed?
+	What is the name of the longest running soap opera TV series?
+	What does an English stone equal?
+	What is the currency of Denmark?
+	When was Sputnik launched?
+	What percent of the U.S. is African American?
+	When was the Red Cross founded?
+	What country was Catherine the Great from?
+	What cathedral is in Claude Monet's paintings?
+	who received the Nobel Prize for Physiology and Medicine in the year 2012?
+	When was Adolf Hitler born?
+	What is the length of Churchill Downs racetrack?
+	What country does Greenland belong to?
+	Where is Anne Frank's diary?
+	When did Alexandra Graham Bell invent the telephone?
+	how many lines per page are in Gutenberg bible?
+	in which country was microsoft founded?

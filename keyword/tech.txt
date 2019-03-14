@@ -1,0 +1,330 @@
+Binary Search
+Binary Search w Pivot
+Bitonic Array
+Count Paths
+Word Ladder
+Sum3EqualsZero
+MaxContigSumArray
+MaxSum3Array
+SetMatrixToZero
+FindOnesInMatrix
+MajorityElement
+Platforms Train Station
+Max Incremental Subsequence
+Intersection Two Arrays
+Find Peak
+Sets all Equal
+Find Celebrity
+Distinct Elements 2 Arrays
+Find Max Difference
+IsAnagram
+RemoveDuplicates
+ReverseString
+ReplaceSpaces
+IsRotation
+ReverseStringInplace
+FindFirstUniqueChar
+ReverseWords
+Longest Substring No Dupes
+CSV Parser
+Expand it!
+PowersOfTwo
+Swap Integers
+Sum Two Arrays
+Smallest Number > k
+Find Missing Integer
+P99 Website Latency
+Multiply
+Open Addressing
+Chaining
+Dynamic Resizing
+Double Linked List
+Remove Duplicates
+Delete Node
+Is Circular
+Circular Node
+Sum Two Lists
+Find Intersection of Two lists
+Linked List Basics
+Reverse Linked List
+Clone Linked List
+Compare Two Lists
+Delete Kth Node in LinkedList
+Reverse Doubly Linked List
+Insert Node Into Doubly Linked List
+Merge Lists
+Fibonacci
+Robot Squares
+String Permutations
+Powerset
+PowersetM
+Valid Parentheses Pairs
+Cents Combos
+Paint Fill
+Count Nodes at k distance
+Implement Tree
+Implement BinaryTree
+Parse Tree Equation
+Tree Traversals
+First Common Ancestor
+Min Height Tree
+Binary Search Tree
+Sub Tree of Binary Tree
+In Order Traversal of binary tree
+Sum of 2 Nodes in BST- Given a binary search tree and an integer k, find two nodes whose values sum up to k.
+Is Subtree
+Find_paths
+Build Binary Search Tree
+Print Path To Key
+Expression Tree
+Mirror Tree
+Max Weight Subtree
+Zig_Zag_Tree
+Binary Search Tree to LL- Convert a binary search tree to a linked list.
+Iterative InOrder Traversal
+Max Path Sum
+Find Predecessor/Find Successor
+Invert Tree- WAF to invert a tree.
+Delete Node
+Common Ancestor
+Implement Stack
+Stacks with Array
+Set of Stacks
+Towers of Hanoi
+Implement a Directed Graph using the Adjacent List technique
+BFS
+DFS
+Topological Sort
+Chess Moves
+Amazon Locker
+Implement a Graph and Vertex
+Pretty Print
+Sort Stack
+Evaluate Expression
+Stack With Max
+Implement Queue w Linked List
+Implement Queue w Resizing Array
+Queue With Stacks
+Queue With Circular Linked List
+Binary Heap
+Binary Heap in CPP
+Architecture
+Concurrency
+Java
+General Questions
+WEB
+SQL
+NoSQL
+Transactions
+Scalability
+Load balancing
+Cloud computing
+Distributed
+Cache
+Networking
+Operating system
+Compilers
+C++
+Javascript
+Python
+Go
+Code writing
+Functional programming
+Reactive programming
+Git
+DevOps
+QA
+Agile, Scrum, XP
+Algorithms
+UML
+Other
+Machine learning
+Big Data
+Image processing
+Cryptography
+Security
+Android
+What is deadlock, livelock?
+Deadlock avoidance.
+What is starvation?
+What is race condition?
+What is happens-before relation?
+What is thread contention?. Contention occurs when multiple threads try to acquire a lock at the same time
+What is a thread-safe function?
+Publish/Subscribe pattern
+What is 2-phase locking?.
+What is the difference between thread and process?
+What is false sharing, cache pollution, cache miss, thread affinity, ABA-problem, speculative execution?
+What is a lock-free, wait-free, obstruction-free algorithm?
+What is sequential consistency?.
+What is a memory barrier?
+What is data race?
+Java memory model.
+What is monitor in Java?
+What is safe publication?
+What is wait/notify?
+Amdahl's law?
+Dining philosophers problem.
+Produces/consumer problem.
+Readers/writers problem.
+Transactional memory
+Coroutine
+PhantomReference, WeakReference, SoftReference, finalize(), ReferenceQueue.
+How to correctly stop a thread?
+What is Spring?
+What is Spring-Boot?
+What is Hibernate and JPA?
+Garbage collection.
+How to write benchmarks?
+What are Java 9 modularity?
+What is OSGI?
+Serializable / Externalizable
+What is a servlet?
+What is a servlet filter? How to implement GZipFilter?
+What is generics and PECS?
+What is the difference between <?>, <Object>, <? extends Object> and no generic type? link1 link2
+Explain method signature for Collections.max(...), Collections.fill(...), Collections.copy(...), Collections.sort(...)
+Why are arrays covariant but generics are invariant? link
+Major specs: JAX-RS, JAX-WS, JMS, JAXB, XSLT, XPATH, JNDI, JMX, JDBC, XML(SAX, DOM, StAX)
+Polymorphism
+Encapsulation
+Virtual function
+Virtual method table
+Dynamic binding
+How does garbage collector work?
+Tail recursion
+Semantic versioning
+WEB security vulnerabilities
+CSRF prevention
+What is JSONP, CORS?
+HTTPS negotiation steps.
+What is HTTP Strict Transport Security
+Browser-server communication methods: WebSocket, EventSource, Comet(Polling, Long-Polling, Streaming)
+Character encoding
+What is role-based access control and access control list?
+What is session and persistent cookies, sessionStorage and localStorage?
+How to implement remember-me?
+Authentication using cookies, JWT.
+Horizontal and vertical scaling.
+How to scale database?.
+Denormalization.
+What is synchronous multimaster replication?
+What is asynchronous multimaster replication?
+When to use messaging queue?
+MongoDB, Redis.
+Hadoop basics.
+sticky/non-sticky sessions
+Sticky sessions vs storing sessions in Redis.
+What is cloud computing?
+Amazon web services
+Google Cloud Platform
+Microsoft Azure
+Consensus
+Raft
+Paxos
+What is CAP theorem?
+What is map-reduce?
+Sharding counters.
+kafka
+zookeeper
+etcd
+Consul
+hadoop
+hbase
+kubernetes
+docker-swarm
+mesos
+Sequential consistency
+Causal consistency
+Eventual consistency
+Monotonic Read Consistency
+Monotonic Write Consistency
+Read-your-writes Consistency
+Writes-follows-reads Consistency
+Consensus number
+Logical clock
+Vector clock
+OSI model
+Multithreading vs select
+Switch, hub, router
+TCP congestion
+TCP back-pressure
+What is memory mapped file and its benefits?
+Interprocess communication methods..
+Virtual memory organization.
+Process scheduler
+Recursive descent parser
+LL parser
+LR parser
+Context-free grammar
+Chomsky hierarchy
+this keyword
+How prototypes work?
+inheritance
+differences between == and === 
+closures
+recursion
+What is MVC, MVP, MVVM?
+What is promise?
+What is event bubbling and capturing?
+What is AMD(Asynchronous Module Design) and CommonJS?
+What is jQuery?
+What is unit test?
+What is component test?
+What is integration test?
+What is user acceptance test? BDD?
+Unit tests advantages?
+Types of tests: acceptance testing, functional testing, smoke testing, regression testing, unit testing, integration testing, stress testing,.
+Differences between stub and mock?
+Selenium tests and webdriver.
+How to test multithreading code?
+What is Consumer Driven Contract? link
+Types of tests
+What is Blue-green Deployment, Canary release, A/B testing? link
+What is Docker?
+What is Scrum?
+What are the differences between Scrum and Waterfall?
+What is XP?
+What is Kanban?
+What is Lean development?
+What Ο(n), Ω(n), Θ(n)?
+What is NP, NP-completeness, NP-hardness with examples?
+How to find memory leak..
+Profiling: sampling and instrumentation.
+Regular expressions.
+What are your goals to work in our company?
+What is virtualization?
+What is total/partial order?
+How to work with legacy code?
+Confidence interval
+p-value
+Overfitting
+Bias–variance tradeoff
+Backpropagation
+Reinforcement learning
+Curse of dimensionality
+Cross-validation
+Bag-of-words, Stop words, n-gram, tf–idf, Latent semantic analysis
+Linear regression
+Logistic regression
+Naive Bayes classifier
+Support vector machine
+Principal component analysis
+Deep learning
+Lambda architecture
+HyperLogLog
+Event sourcing
+Public-key cryptography
+Public key certificate
+Blockchain
+Proof-of-work system
+Secret sharing
+RSA
+What is OpenID and OAuth2.0 and OpenID Connect?
+Four main actors in an OAuth system
+What is access_token, refresh_token, SAML token, JWT token?
+Sticky session vs Session Replication.
+What is hash salt?
+What is Federated Authentication ?
+What is CSP and SRI hash ?
+What is Clickjacking and Cursorjacking ? How to prevent it ?
