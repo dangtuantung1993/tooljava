@@ -2,6 +2,7 @@
 node_modules/
 account.csv
 history.txt
+Son_account.csv
 Mail.txt
 PrivateKey.txt
 Vi.txt
